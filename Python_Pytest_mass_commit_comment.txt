@@ -1,0 +1,16 @@
+"
+Module 'pyfuncs.py', linted by flake8, contains testable functions.
+
+Script 'test_pyfuncs.py', linted by flake8, contains more than one hundred tests which will be executed automatically by 'pytest'.
+
+Environment 'Python 3.11', 'pip3', 'pytest'.
+
+Execute 'pytest ./test_pyfuncs.py -vrP' when module 'pyfuncs.py' and
+script 'test_pyfuncs,py' exist in the SAME directory.
+
+'logging.StreamHandler' was configured to send output to 'stdout' instead of defaulting to 'stderr'.
+
+Each log message will have a prepended UTC formatted date time stamp.
+
+'log-pytesting-pyfuncs.txt' Contains 'pytest' execution output.
+"
